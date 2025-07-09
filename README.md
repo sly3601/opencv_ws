@@ -1,1 +1,1 @@
-first opencv demo
+* first opencv demo
