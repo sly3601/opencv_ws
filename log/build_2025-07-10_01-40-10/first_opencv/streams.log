@@ -1,0 +1,38 @@
+[0.397s] Invoking command in '/home/yzz/opencv_ws/src/first_opencv': PYTHONPATH=/home/yzz/opencv_ws/build/first_opencv/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yzz/opencv_ws/install/first_opencv/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/first_opencv build --build-base /home/yzz/opencv_ws/build/first_opencv/build install --record /home/yzz/opencv_ws/build/first_opencv/install.log --single-version-externally-managed install_data
+[0.548s] running egg_info
+[0.549s] creating ../../build/first_opencv/first_opencv.egg-info
+[0.549s] writing ../../build/first_opencv/first_opencv.egg-info/PKG-INFO
+[0.549s] writing dependency_links to ../../build/first_opencv/first_opencv.egg-info/dependency_links.txt
+[0.549s] writing entry points to ../../build/first_opencv/first_opencv.egg-info/entry_points.txt
+[0.549s] writing requirements to ../../build/first_opencv/first_opencv.egg-info/requires.txt
+[0.549s] writing top-level names to ../../build/first_opencv/first_opencv.egg-info/top_level.txt
+[0.549s] writing manifest file '../../build/first_opencv/first_opencv.egg-info/SOURCES.txt'
+[0.550s] reading manifest file '../../build/first_opencv/first_opencv.egg-info/SOURCES.txt'
+[0.550s] adding license file 'LICENSE'
+[0.550s] writing manifest file '../../build/first_opencv/first_opencv.egg-info/SOURCES.txt'
+[0.550s] running build
+[0.550s] running build_py
+[0.550s] creating /home/yzz/opencv_ws/build/first_opencv/build
+[0.551s] creating /home/yzz/opencv_ws/build/first_opencv/build/lib
+[0.551s] creating /home/yzz/opencv_ws/build/first_opencv/build/lib/first_opencv
+[0.551s] copying first_opencv/color_tracker_node.py -> /home/yzz/opencv_ws/build/first_opencv/build/lib/first_opencv
+[0.551s] copying first_opencv/__init__.py -> /home/yzz/opencv_ws/build/first_opencv/build/lib/first_opencv
+[0.551s] running install
+[0.552s] running install_lib
+[0.552s] creating /home/yzz/opencv_ws/install/first_opencv/lib/python3.10/site-packages/first_opencv
+[0.552s] copying /home/yzz/opencv_ws/build/first_opencv/build/lib/first_opencv/color_tracker_node.py -> /home/yzz/opencv_ws/install/first_opencv/lib/python3.10/site-packages/first_opencv
+[0.552s] copying /home/yzz/opencv_ws/build/first_opencv/build/lib/first_opencv/__init__.py -> /home/yzz/opencv_ws/install/first_opencv/lib/python3.10/site-packages/first_opencv
+[0.552s] byte-compiling /home/yzz/opencv_ws/install/first_opencv/lib/python3.10/site-packages/first_opencv/color_tracker_node.py to color_tracker_node.cpython-310.pyc
+[0.552s] byte-compiling /home/yzz/opencv_ws/install/first_opencv/lib/python3.10/site-packages/first_opencv/__init__.py to __init__.cpython-310.pyc
+[0.552s] running install_data
+[0.552s] creating /home/yzz/opencv_ws/install/first_opencv/share/ament_index
+[0.553s] creating /home/yzz/opencv_ws/install/first_opencv/share/ament_index/resource_index
+[0.553s] creating /home/yzz/opencv_ws/install/first_opencv/share/ament_index/resource_index/packages
+[0.553s] copying resource/first_opencv -> /home/yzz/opencv_ws/install/first_opencv/share/ament_index/resource_index/packages
+[0.553s] copying package.xml -> /home/yzz/opencv_ws/install/first_opencv/share/first_opencv
+[0.553s] running install_egg_info
+[0.554s] Copying ../../build/first_opencv/first_opencv.egg-info to /home/yzz/opencv_ws/install/first_opencv/lib/python3.10/site-packages/first_opencv-0.0.0-py3.10.egg-info
+[0.554s] running install_scripts
+[0.568s] Installing color_tracker_node script to /home/yzz/opencv_ws/install/first_opencv/lib/first_opencv
+[0.568s] writing list of installed files to '/home/yzz/opencv_ws/build/first_opencv/install.log'
+[0.584s] Invoked command in '/home/yzz/opencv_ws/src/first_opencv' returned '0': PYTHONPATH=/home/yzz/opencv_ws/build/first_opencv/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yzz/opencv_ws/install/first_opencv/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/first_opencv build --build-base /home/yzz/opencv_ws/build/first_opencv/build install --record /home/yzz/opencv_ws/build/first_opencv/install.log --single-version-externally-managed install_data

@@ -1,0 +1,3 @@
+[console_scripts]
+color_tracker_node = first_opencv.color_tracker_node:main
+

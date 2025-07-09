@@ -1,0 +1,36 @@
+running egg_info
+creating ../../build/first_opencv/first_opencv.egg-info
+writing ../../build/first_opencv/first_opencv.egg-info/PKG-INFO
+writing dependency_links to ../../build/first_opencv/first_opencv.egg-info/dependency_links.txt
+writing entry points to ../../build/first_opencv/first_opencv.egg-info/entry_points.txt
+writing requirements to ../../build/first_opencv/first_opencv.egg-info/requires.txt
+writing top-level names to ../../build/first_opencv/first_opencv.egg-info/top_level.txt
+writing manifest file '../../build/first_opencv/first_opencv.egg-info/SOURCES.txt'
+reading manifest file '../../build/first_opencv/first_opencv.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/first_opencv/first_opencv.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/yzz/opencv_ws/build/first_opencv/build
+creating /home/yzz/opencv_ws/build/first_opencv/build/lib
+creating /home/yzz/opencv_ws/build/first_opencv/build/lib/first_opencv
+copying first_opencv/color_tracker_node.py -> /home/yzz/opencv_ws/build/first_opencv/build/lib/first_opencv
+copying first_opencv/__init__.py -> /home/yzz/opencv_ws/build/first_opencv/build/lib/first_opencv
+running install
+running install_lib
+creating /home/yzz/opencv_ws/install/first_opencv/lib/python3.10/site-packages/first_opencv
+copying /home/yzz/opencv_ws/build/first_opencv/build/lib/first_opencv/color_tracker_node.py -> /home/yzz/opencv_ws/install/first_opencv/lib/python3.10/site-packages/first_opencv
+copying /home/yzz/opencv_ws/build/first_opencv/build/lib/first_opencv/__init__.py -> /home/yzz/opencv_ws/install/first_opencv/lib/python3.10/site-packages/first_opencv
+byte-compiling /home/yzz/opencv_ws/install/first_opencv/lib/python3.10/site-packages/first_opencv/color_tracker_node.py to color_tracker_node.cpython-310.pyc
+byte-compiling /home/yzz/opencv_ws/install/first_opencv/lib/python3.10/site-packages/first_opencv/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/yzz/opencv_ws/install/first_opencv/share/ament_index
+creating /home/yzz/opencv_ws/install/first_opencv/share/ament_index/resource_index
+creating /home/yzz/opencv_ws/install/first_opencv/share/ament_index/resource_index/packages
+copying resource/first_opencv -> /home/yzz/opencv_ws/install/first_opencv/share/ament_index/resource_index/packages
+copying package.xml -> /home/yzz/opencv_ws/install/first_opencv/share/first_opencv
+running install_egg_info
+Copying ../../build/first_opencv/first_opencv.egg-info to /home/yzz/opencv_ws/install/first_opencv/lib/python3.10/site-packages/first_opencv-0.0.0-py3.10.egg-info
+running install_scripts
+Installing color_tracker_node script to /home/yzz/opencv_ws/install/first_opencv/lib/first_opencv
+writing list of installed files to '/home/yzz/opencv_ws/build/first_opencv/install.log'
